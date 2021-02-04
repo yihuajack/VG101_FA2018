@@ -1,0 +1,4 @@
+The mean of prices is 23.190909.
+The variance of prices is 0.814909.
+Oct28 has highest price: 24.500000.
+Oct19 has lowest price: 21.500000.

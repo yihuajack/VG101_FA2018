@@ -1,0 +1,7 @@
+Tony 97
+Amy 88
+Jeff 93
+Bob 76.5
+Joe 94.3
+Ruby 87.2
+Luch 77.8

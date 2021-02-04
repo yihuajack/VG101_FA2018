@@ -1,0 +1,12 @@
+Date  Price
+Oct19 21.5
+Oct20 21.9
+Oct21 23.5
+Oct22 23.0
+Oct23 24.4
+Oct24 23.5
+Oct25 23.3
+Oct26 22.8
+Oct27 23.3
+Oct28 24.5
+Oct29 23.4
